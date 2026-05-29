@@ -1,0 +1,7 @@
+# Initialize git and push to GitHub
+git init
+git add .
+git commit -m "Add AI Content Generator"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/ai-content-generator.git
+git push -u origin main
