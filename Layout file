@@ -1,0 +1,15 @@
+// app/layout.jsx
+import './globals.css'
+
+export const metadata = {
+  title: 'مساعدك الذكي للمحتوى | AI Content Generator',
+  description: 'أنشئ محتوى سوشيال ميديا وردود إيميل احترافية باستخدام الذكاء الاصطناعي',
+}
+
+export default function RootLayout({ children }) {
+  return (
+    <html lang="ar" dir="rtl">
+      <body>{children}</body>
+    </html>
+  )
+}
