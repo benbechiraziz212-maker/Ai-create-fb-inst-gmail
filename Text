@@ -1,0 +1,12 @@
+ai-content-generator/
+├── app/
+│   ├── api/
+│   │   └── generate/
+│   │       └── route.js
+│   ├── page.jsx
+│   ├── layout.jsx
+│   └── globals.css
+├── package.json
+├── next.config.js
+├── .env.local
+└── vercel.json
