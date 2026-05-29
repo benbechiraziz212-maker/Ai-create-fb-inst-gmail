@@ -1,0 +1,2 @@
+# .env.local (for local testing only - DO NOT commit this file)
+OPENAI_API_KEY=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
