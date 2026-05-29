@@ -1,0 +1,13 @@
+# Install Vercel CLI
+npm install -g vercel
+
+# Deploy (run this in your project folder)
+vercel
+
+# Follow prompts:
+# - Set up and deploy: Yes
+# - Which scope: Select your account
+# - Link to existing project: No
+# - Project name: ai-content-generator
+# - Directory: ./
+# - Override settings: No
